@@ -1,39 +1,39 @@
 # Major topics and subtopics
 
 ## Basics of C++
-    ### Variables and Data Types:
-        - Integer types (int, short, long, etc.)
-        - Floating-point types (float, double)
-        - Character types (char, wchar_t, char16_t, char32_t)
-        - Boolean type (bool)
-    ### Input and Output:
-        - Standard input/output (cin, cout)
-        - Input/output manipulators
-    ### Control Structures:
-        - if-else statements
-        - switch-case statements
-        - Loops (for, while, do-while)
-    ### Functions:
-        - Function declaration and definition
-        - Function parameters and return types
-        - Function overloading
-    ### Arrays:
-        - Declaring arrays
-        - Accessing array elements
-        - Multi-dimensional arrays
-    ### Pointers:
-        - Pointer declaration and initialization
-        - Pointer arithmetic
-        - Pointers and arrays
-        - Pointers and functions
-    ### References:
-        - Reference declaration
-        - Reference vs. pointer
-        - Reference as function parameters
-    ### Memory Management:
-        - Stack vs. Heap memory
-        - Dynamic memory allocation (new, delete)
-        - Memory leaks and dangling pointers
+    Variables and Data Types:
+        Integer types (int, short, long, etc.)
+        Floating-point types (float, double)
+        Character types (char, wchar_t, char16_t, char32_t)
+        Boolean type (bool)
+    Input and Output:
+        Standard input/output (cin, cout)
+        Input/output manipulators
+    Control Structures:
+        if-else statements
+        switch-case statements
+        Loops (for, while, do-while)
+    Functions:
+        Function declaration and definition
+        Function parameters and return types
+        Function overloading
+    Arrays:
+        Declaring arrays
+        Accessing array elements
+        Multi-dimensional arrays
+    Pointers:
+        Pointer declaration and initialization
+        Pointer arithmetic
+        Pointers and arrays
+        Pointers and functions
+    References:
+        Reference declaration
+        Reference vs. pointer
+        Reference as function parameters
+    Memory Management:
+        Stack vs. Heap memory
+        Dynamic memory allocation (new, delete)
+        Memory leaks and dangling pointers
 ## Object-Oriented Programming (OOP) in C++
     Classes and Objects:
         Class declaration and definition
